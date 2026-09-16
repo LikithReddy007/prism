@@ -1,5 +1,7 @@
 # PRISM — Predictive Resilient Infrastructure with Self-Learning Autonomous Healing Model
 
+Repo: https://github.com/LikithReddy007/prism
+
 Frontend dashboard for **PRISM**, a capstone project (Team 55) for predictive infrastructure monitoring and auto-healing on AWS. It visualizes the full pipeline:
 
 ```
